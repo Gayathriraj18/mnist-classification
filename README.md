@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/38ebcab9-1415-417e-a4fe-20859a6d2051)# Convolutional Deep Neural Network for Digit Classification
+## Convolutional Deep Neural Network for Digit Classification
 
 ## AIM
 
