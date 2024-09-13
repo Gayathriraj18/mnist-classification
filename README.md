@@ -162,7 +162,6 @@ print(x_single_prediction)
 ### New Sample Data Prediction
 
 ![image](https://github.com/user-attachments/assets/44fc0aba-8e07-47f8-bfaa-20493b864143)
-
 ![image](https://github.com/user-attachments/assets/023ce6f4-d199-4d49-9c78-8946dace491e)
 
 
